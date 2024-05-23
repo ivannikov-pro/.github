@@ -1,3 +1,5 @@
+![ivannikov.pro](/profile/ivannikov.pro_en.jpg)
+
 # 👋 Hello! I'm Aleksandr Ivannikov.
 I am a Full Stack Blockchain Developer with my own Team (UI/UX design, layout, front-end, back-end, illustrations). Each member of our team has more than 5 years of professional experience.
 
